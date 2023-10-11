@@ -33,6 +33,8 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 		/// ↓描画処理ここから
 		///
 		Novice::ScreenPrintf(640, 360, "Git");
+
+		Novice::ScreenPrintf(640, 460, "2023/10/11");
 		///
 		/// ↑描画処理ここまで
 		///
