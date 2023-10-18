@@ -35,6 +35,9 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 		Novice::ScreenPrintf(640, 360, "Git");
 
 		Novice::ScreenPrintf(640, 460, "2023/10/11");
+
+
+		Novice::ScreenPrintf(640, 460, "マージしてください");
 		///
 		/// ↑描画処理ここまで
 		///
